@@ -1,0 +1,215 @@
+08-08 00:18:40: Training starting...
+08-08 00:18:40: New best reward -0.9 (-100.0%) at episode 0, saving model...
+08-08 00:18:40: New best reward 3.9 (-533.3%) at episode 1, saving model...
+08-08 00:18:41: New best reward 4.0 (+2.6%) at episode 3, saving model...
+08-08 00:18:41: New best reward 5.0 (+25.0%) at episode 48, saving model...
+08-08 00:18:44: New best reward 6.0 (+20.0%) at episode 190, saving model...
+08-08 00:18:45: New best reward 6.2 (+3.3%) at episode 237, saving model...
+08-08 00:18:46: New best reward 6.4 (+3.2%) at episode 273, saving model...
+08-08 00:18:54: New best reward 10.7 (+67.2%) at episode 736, saving model...
+Checkpoint saved at episode 1000
+Checkpoint saved at episode 2000
+Checkpoint saved at episode 3000
+08-08 00:19:54: New best reward 11.2 (+4.7%) at episode 3312, saving model...
+08-08 00:19:56: New best reward 17.9 (+59.8%) at episode 3358, saving model...
+Checkpoint saved at episode 4000
+08-08 00:20:40: New best reward 23.0 (+28.5%) at episode 4973, saving model...
+Checkpoint saved at episode 5000
+08-08 00:20:56: New best reward 25.2 (+9.6%) at episode 5437, saving model...
+Checkpoint saved at episode 6000
+Checkpoint saved at episode 7000
+08-08 00:21:51: New best reward 26.9 (+6.7%) at episode 7009, saving model...
+08-08 00:21:53: New best reward 31.9 (+18.6%) at episode 7060, saving model...
+08-08 00:21:58: New best reward 33.1 (+3.8%) at episode 7180, saving model...
+08-08 00:22:12: New best reward 37.3 (+12.7%) at episode 7512, saving model...
+08-08 00:22:21: New best reward 43.2 (+15.8%) at episode 7720, saving model...
+08-08 00:22:27: New best reward 60.5 (+40.0%) at episode 7850, saving model...
+Checkpoint saved at episode 8000
+08-08 00:22:52: New best reward 93.6 (+54.7%) at episode 8368, saving model...
+08-08 00:23:25: New best reward 99.3 (+6.1%) at episode 8976, saving model...
+Checkpoint saved at episode 9000
+Checkpoint saved at episode 10000
+Checkpoint saved at episode 11000
+Checkpoint saved at episode 12000
+Checkpoint saved at episode 13000
+08-08 00:28:01: New best reward 101.9 (+2.6%) at episode 13985, saving model...
+Checkpoint saved at episode 14000
+Checkpoint saved at episode 15000
+Checkpoint saved at episode 16000
+Checkpoint saved at episode 17000
+Checkpoint saved at episode 18000
+Checkpoint saved at episode 19000
+08-08 00:33:47: New best reward 106.4 (+4.4%) at episode 19667, saving model...
+Checkpoint saved at episode 20000
+Checkpoint saved at episode 21000
+Checkpoint saved at episode 22000
+Checkpoint saved at episode 23000
+Checkpoint saved at episode 24000
+Checkpoint saved at episode 25000
+Checkpoint saved at episode 26000
+Checkpoint saved at episode 27000
+Checkpoint saved at episode 28000
+Checkpoint saved at episode 29000
+Checkpoint saved at episode 30000
+Checkpoint saved at episode 31000
+Checkpoint saved at episode 32000
+Checkpoint saved at episode 33000
+Checkpoint saved at episode 34000
+Checkpoint saved at episode 35000
+Checkpoint saved at episode 36000
+Checkpoint saved at episode 37000
+Checkpoint saved at episode 38000
+Checkpoint saved at episode 39000
+Checkpoint saved at episode 40000
+Checkpoint saved at episode 41000
+Checkpoint saved at episode 42000
+Checkpoint saved at episode 43000
+Checkpoint saved at episode 44000
+Checkpoint saved at episode 45000
+Checkpoint saved at episode 46000
+Checkpoint saved at episode 47000
+Checkpoint saved at episode 48000
+Checkpoint saved at episode 49000
+Checkpoint saved at episode 50000
+Checkpoint saved at episode 51000
+Checkpoint saved at episode 52000
+Checkpoint saved at episode 53000
+Checkpoint saved at episode 54000
+Checkpoint saved at episode 55000
+Checkpoint saved at episode 56000
+Checkpoint saved at episode 57000
+Checkpoint saved at episode 58000
+Checkpoint saved at episode 59000
+Checkpoint saved at episode 60000
+Checkpoint saved at episode 61000
+Checkpoint saved at episode 62000
+Checkpoint saved at episode 63000
+Checkpoint saved at episode 64000
+Checkpoint saved at episode 65000
+Checkpoint saved at episode 66000
+Checkpoint saved at episode 67000
+Checkpoint saved at episode 68000
+Checkpoint saved at episode 69000
+Checkpoint saved at episode 70000
+Checkpoint saved at episode 71000
+Checkpoint saved at episode 72000
+Checkpoint saved at episode 73000
+Checkpoint saved at episode 74000
+Checkpoint saved at episode 75000
+Checkpoint saved at episode 76000
+Checkpoint saved at episode 77000
+Checkpoint saved at episode 78000
+Checkpoint saved at episode 79000
+Checkpoint saved at episode 80000
+Checkpoint saved at episode 81000
+Checkpoint saved at episode 82000
+Checkpoint saved at episode 83000
+Checkpoint saved at episode 84000
+Checkpoint saved at episode 85000
+Checkpoint saved at episode 86000
+Checkpoint saved at episode 87000
+Checkpoint saved at episode 88000
+Checkpoint saved at episode 89000
+Checkpoint saved at episode 90000
+Checkpoint saved at episode 91000
+Checkpoint saved at episode 92000
+Checkpoint saved at episode 93000
+Checkpoint saved at episode 94000
+Checkpoint saved at episode 95000
+Checkpoint saved at episode 96000
+Checkpoint saved at episode 97000
+Checkpoint saved at episode 98000
+Checkpoint saved at episode 99000
+Checkpoint saved at episode 100000
+Checkpoint saved at episode 101000
+Checkpoint saved at episode 102000
+Checkpoint saved at episode 103000
+Checkpoint saved at episode 104000
+Checkpoint saved at episode 105000
+Checkpoint saved at episode 106000
+Checkpoint saved at episode 107000
+Checkpoint saved at episode 108000
+Checkpoint saved at episode 109000
+Checkpoint saved at episode 110000
+Checkpoint saved at episode 111000
+Checkpoint saved at episode 112000
+Checkpoint saved at episode 113000
+Checkpoint saved at episode 114000
+Checkpoint saved at episode 115000
+Checkpoint saved at episode 116000
+Checkpoint saved at episode 117000
+Checkpoint saved at episode 118000
+Checkpoint saved at episode 119000
+Checkpoint saved at episode 120000
+Checkpoint saved at episode 121000
+Checkpoint saved at episode 122000
+Checkpoint saved at episode 123000
+Checkpoint saved at episode 124000
+Checkpoint saved at episode 125000
+Checkpoint saved at episode 126000
+Checkpoint saved at episode 127000
+Checkpoint saved at episode 128000
+Checkpoint saved at episode 129000
+Checkpoint saved at episode 130000
+Checkpoint saved at episode 131000
+Checkpoint saved at episode 132000
+Checkpoint saved at episode 133000
+Checkpoint saved at episode 134000
+Checkpoint saved at episode 135000
+Checkpoint saved at episode 136000
+Checkpoint saved at episode 137000
+Checkpoint saved at episode 138000
+Checkpoint saved at episode 139000
+Checkpoint saved at episode 140000
+Checkpoint saved at episode 141000
+Checkpoint saved at episode 142000
+Checkpoint saved at episode 143000
+Checkpoint saved at episode 144000
+Checkpoint saved at episode 145000
+Checkpoint saved at episode 146000
+Checkpoint saved at episode 147000
+Checkpoint saved at episode 148000
+Checkpoint saved at episode 149000
+Checkpoint saved at episode 150000
+Checkpoint saved at episode 151000
+Checkpoint saved at episode 152000
+Checkpoint saved at episode 153000
+Checkpoint saved at episode 154000
+Checkpoint saved at episode 155000
+Checkpoint saved at episode 156000
+Checkpoint saved at episode 157000
+Checkpoint saved at episode 158000
+Checkpoint saved at episode 159000
+Checkpoint saved at episode 160000
+Checkpoint saved at episode 161000
+Checkpoint saved at episode 162000
+Checkpoint saved at episode 163000
+Checkpoint saved at episode 164000
+Checkpoint saved at episode 165000
+Checkpoint saved at episode 166000
+Checkpoint saved at episode 167000
+Checkpoint saved at episode 168000
+Checkpoint saved at episode 169000
+Checkpoint saved at episode 170000
+Checkpoint saved at episode 171000
+Checkpoint saved at episode 172000
+Checkpoint saved at episode 173000
+Checkpoint saved at episode 174000
+Checkpoint saved at episode 175000
+Checkpoint saved at episode 176000
+Checkpoint saved at episode 177000
+Checkpoint saved at episode 178000
+Checkpoint saved at episode 179000
+Checkpoint saved at episode 180000
+Checkpoint saved at episode 181000
+Checkpoint saved at episode 182000
+Checkpoint saved at episode 183000
+Checkpoint saved at episode 184000
+Checkpoint saved at episode 185000
+Checkpoint saved at episode 186000
+Checkpoint saved at episode 187000
+Checkpoint saved at episode 188000
+Checkpoint saved at episode 189000
+Checkpoint saved at episode 190000
+Checkpoint saved at episode 191000
+Checkpoint saved at episode 192000
